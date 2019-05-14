@@ -1,2 +1,2 @@
 # hello-world
-终于注册成功github了！
+There is a will,there is a way!
